@@ -35,8 +35,6 @@ To set up the project, follow these steps:
 
 <br/>
 <hr/>
-<br/>
-<br/>
 
 # Configuring the programming environment
 
